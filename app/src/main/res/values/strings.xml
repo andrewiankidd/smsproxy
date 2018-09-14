@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">smsproxy</string>
+    <string name="logHint">Log Output</string>
+</resources>
